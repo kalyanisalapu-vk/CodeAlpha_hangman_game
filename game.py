@@ -1,8 +1,6 @@
 import random
 
-# Updated words list
-words = ["pizza", "python", "monkey", "happy", "laptop", "ninja", "cake", "friend", "smile"]
-
+words = ["apple", "banana", "grape", "mango", "strawberry"]
 word = random.choice(words)
 
 guessed = []
